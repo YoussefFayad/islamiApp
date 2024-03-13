@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IslamiApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <item name="textColor" type="color">#ffffff</item>
+    <item name="countView" type="color">#141A2E</item>
+    <item name="buttonSebhaa" type="color">#FACC1D</item>
+    <item name="buttonText" type="color">#0F1424</item>
+    <item name="lineColor" type="color">#FACC1D</item>
+
+
+
+</resources>
