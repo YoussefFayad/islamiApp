@@ -3,8 +3,9 @@
 An Islami application is a simple and user-friendly app developed using Kotlin and XML. The app is designed to provide users with easy access to the Quran and Hadith, leveraging local storage to ensure a smooth and seamless reading experience.
 
 ## Demo Video
-![ezgif com-optimize (1)](https://github.com/user-attachments/assets/7ed129f0-5bde-4422-b4ec-90f54a27a2e7)
 
+
+https://github.com/user-attachments/assets/1cde4d16-371c-428b-902c-90aca47fcdea
 
 
 ## Features
